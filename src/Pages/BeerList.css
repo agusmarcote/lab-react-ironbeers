@@ -1,0 +1,12 @@
+nav{
+    background-color: #3DC4FC;
+}
+
+.imgBeer{
+    width: 50px;
+}
+
+.beerDetail{
+    display: flex;
+    flex-flow: column;
+}
